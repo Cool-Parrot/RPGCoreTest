@@ -17,14 +17,24 @@ public class PlayerController : MonoBehaviour
 
     public GameObject cooldownBar; // 冷卻條 UI 的父物件（含 Image）
 
-    public SpriteAnimator animator;
-
     public Sprite[] idleUp, idleDown, idleLeft, idleRight;
     public Sprite[] walkUp, walkDown, walkLeft, walkRight;
     public Sprite[] runUp, runDown, runLeft, runRight;
 
-    private PlayerState currentState = PlayerState.Idle;
-    private FacingDirection currentDir = FacingDirection.Down;
+    private Rigidbody2D rb;
+    private Vector2 moveInput;
+
+    public PlayerState currentState = PlayerState.Idle;
+    public FacingDirection currentDirection = FacingDirection.Down;
+
+    private SpriteAnimator spriteAnimator;
+
+    void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+        rb = GetComponent<Rigidbody2D>();
+        spriteAnimator = GetComponent<SpriteAnimator>();
+    }
 
     // Update is called once per frame
     void Update()
@@ -66,6 +76,24 @@ public class PlayerController : MonoBehaviour
                 cooldownBar.SetActive(false);
             }
         }
+
+        // 取得輸入
+        moveInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+        moveInput.Normalize();
+
+        // 狀態判定
+        if (moveInput.sqrMagnitude > 0)
+        {
+            currentState = PlayerState.Walk;
+            UpdateFacingDirection(moveInput);
+        }
+        else
+        {
+            currentState = PlayerState.Idle;
+        }
+
+        // 更新動畫狀態
+        spriteAnimator.SetState(currentState, currentDirection);
     }
 
     void FixedUpdate()
@@ -93,6 +121,9 @@ public class PlayerController : MonoBehaviour
         newPos.y = Mathf.Clamp(newPos.y, -areaSize.y, areaSize.y);
 
         transform.position = newPos;
+
+        // 移動角色
+        rb.MovePosition(rb.position + moveInput * moveSpeed * Time.fixedDeltaTime);
     }
 
     void UpdateCooldownBar(float progress)
@@ -104,9 +135,18 @@ public class PlayerController : MonoBehaviour
             image.color = Color.Lerp(Color.red, Color.white, progress);
         }
     }
-
-    void Awake()
+    
+    
+    private void UpdateFacingDirection(Vector2 move)
     {
-        DontDestroyOnLoad(gameObject);
+        // 垂直優先：上下方向明顯時優先使用上下
+        if (Mathf.Abs(move.y) > Mathf.Abs(move.x))
+        {
+            currentDirection = move.y > 0 ? FacingDirection.Up : FacingDirection.Down;
+        }
+        else
+        {
+            currentDirection = move.x > 0 ? FacingDirection.Right : FacingDirection.Left;
+        }
     }
 }

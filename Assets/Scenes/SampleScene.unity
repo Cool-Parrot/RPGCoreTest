@@ -327,6 +327,7 @@ GameObject:
   - component: {fileID: 223775881}
   - component: {fileID: 223775885}
   - component: {fileID: 223775884}
+  - component: {fileID: 223775886}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -351,6 +352,20 @@ MonoBehaviour:
   dashSpeed: 15
   dashDuration: 0.2
   cooldownBar: {fileID: 611756251}
+  idleUp: []
+  idleDown: []
+  idleLeft: []
+  idleRight: []
+  walkUp: []
+  walkDown: []
+  walkLeft: []
+  walkRight: []
+  runUp: []
+  runDown: []
+  runLeft: []
+  runRight: []
+  currentState: 0
+  currentDirection: 1
 --- !u!212 &223775882
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -371,10 +386,10 @@ SpriteRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
-  m_RenderingLayerMask: 1
+  m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -485,6 +500,50 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &223775886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 223775880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 515c4e4143e1f4846b90075f83c4d891, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idleDown:
+  - {fileID: -2690792559708188323, guid: 58f00de56312b9d4184569beb66a679e, type: 3}
+  - {fileID: 9207541054723020084, guid: 58f00de56312b9d4184569beb66a679e, type: 3}
+  - {fileID: 4333283870218021683, guid: 58f00de56312b9d4184569beb66a679e, type: 3}
+  - {fileID: 9207541054723020084, guid: 58f00de56312b9d4184569beb66a679e, type: 3}
+  idleUp:
+  - {fileID: -4571828015118065507, guid: b199715a4b61b994f9e7c0d89572b224, type: 3}
+  - {fileID: -2796314236206107100, guid: b199715a4b61b994f9e7c0d89572b224, type: 3}
+  - {fileID: -8741071136333515919, guid: b199715a4b61b994f9e7c0d89572b224, type: 3}
+  - {fileID: -4010712506205823437, guid: b199715a4b61b994f9e7c0d89572b224, type: 3}
+  - {fileID: -268665122245818335, guid: b199715a4b61b994f9e7c0d89572b224, type: 3}
+  idleLeft: []
+  idleRight: []
+  walkDown:
+  - {fileID: 4281637774074219296, guid: f51f826b8868a9a41aa12ffe729906bd, type: 3}
+  - {fileID: -7862396843884538191, guid: f51f826b8868a9a41aa12ffe729906bd, type: 3}
+  - {fileID: 8276514422256456541, guid: f51f826b8868a9a41aa12ffe729906bd, type: 3}
+  - {fileID: -3697937850672776721, guid: f51f826b8868a9a41aa12ffe729906bd, type: 3}
+  - {fileID: 4987614716155920338, guid: f51f826b8868a9a41aa12ffe729906bd, type: 3}
+  walkUp:
+  - {fileID: 1025937579893246056, guid: faea6bc1ce8e97944bff6eeb2c214721, type: 3}
+  - {fileID: 7932917015179950906, guid: faea6bc1ce8e97944bff6eeb2c214721, type: 3}
+  - {fileID: -1230306669262166264, guid: faea6bc1ce8e97944bff6eeb2c214721, type: 3}
+  - {fileID: -5650384716705411897, guid: faea6bc1ce8e97944bff6eeb2c214721, type: 3}
+  - {fileID: -7026358055542794376, guid: faea6bc1ce8e97944bff6eeb2c214721, type: 3}
+  walkLeft: []
+  walkRight: []
+  runDown: []
+  runUp: []
+  runLeft: []
+  runRight: []
+  frameRate: 0.1
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
