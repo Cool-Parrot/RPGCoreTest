@@ -1,0 +1,2111 @@
+fileFormatVersion: 2
+guid: 04237fcdec9591341b992647a831461f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4855514820058689620
+    second: Tiles communautaire pour post apo3_0
+  - first:
+      213: 7114001236783593030
+    second: Tiles communautaire pour post apo3_1
+  - first:
+      213: 2363612113970942797
+    second: Tiles communautaire pour post apo3_2
+  - first:
+      213: -9222646619040846472
+    second: Tiles communautaire pour post apo3_3
+  - first:
+      213: 6303076886878570058
+    second: Tiles communautaire pour post apo3_4
+  - first:
+      213: -6828831277126032578
+    second: Tiles communautaire pour post apo3_5
+  - first:
+      213: -7777831554950406208
+    second: Tiles communautaire pour post apo3_6
+  - first:
+      213: 4474309813639303963
+    second: Tiles communautaire pour post apo3_7
+  - first:
+      213: -1757764164486586458
+    second: Tiles communautaire pour post apo3_8
+  - first:
+      213: -5278567968950466472
+    second: Tiles communautaire pour post apo3_9
+  - first:
+      213: 9048796300212612789
+    second: Tiles communautaire pour post apo3_10
+  - first:
+      213: 4093259839693919853
+    second: Tiles communautaire pour post apo3_11
+  - first:
+      213: 4633288086483423880
+    second: Tiles communautaire pour post apo3_12
+  - first:
+      213: -6853163711201717861
+    second: Tiles communautaire pour post apo3_13
+  - first:
+      213: 6396407391993287075
+    second: Tiles communautaire pour post apo3_14
+  - first:
+      213: -5276765180796629343
+    second: Tiles communautaire pour post apo3_15
+  - first:
+      213: 7330182652333876111
+    second: Tiles communautaire pour post apo3_16
+  - first:
+      213: 5170183685767223711
+    second: Tiles communautaire pour post apo3_17
+  - first:
+      213: -2046932084724280018
+    second: Tiles communautaire pour post apo3_18
+  - first:
+      213: -3674035087994327498
+    second: Tiles communautaire pour post apo3_19
+  - first:
+      213: -5211763452866453597
+    second: Tiles communautaire pour post apo3_20
+  - first:
+      213: -8221598228727616870
+    second: Tiles communautaire pour post apo3_21
+  - first:
+      213: -5982442460579748969
+    second: Tiles communautaire pour post apo3_22
+  - first:
+      213: 6599487636672109027
+    second: Tiles communautaire pour post apo3_23
+  - first:
+      213: -5799638824431937344
+    second: Tiles communautaire pour post apo3_24
+  - first:
+      213: -4986665351142163790
+    second: Tiles communautaire pour post apo3_25
+  - first:
+      213: 6224997471542944895
+    second: Tiles communautaire pour post apo3_26
+  - first:
+      213: 5010058096023636738
+    second: Tiles communautaire pour post apo3_27
+  - first:
+      213: -8276506529565276618
+    second: Tiles communautaire pour post apo3_28
+  - first:
+      213: 7957232313025451696
+    second: Tiles communautaire pour post apo3_29
+  - first:
+      213: -2621900361866834501
+    second: Tiles communautaire pour post apo3_30
+  - first:
+      213: -2312109988536639212
+    second: Tiles communautaire pour post apo3_31
+  - first:
+      213: 3925476306079306786
+    second: Tiles communautaire pour post apo3_32
+  - first:
+      213: 1241989164537881204
+    second: Tiles communautaire pour post apo3_33
+  - first:
+      213: 2742720153981252277
+    second: Tiles communautaire pour post apo3_34
+  - first:
+      213: -2166391840788290933
+    second: Tiles communautaire pour post apo3_35
+  - first:
+      213: -2241109640100542268
+    second: Tiles communautaire pour post apo3_36
+  - first:
+      213: -6614813419977647357
+    second: Tiles communautaire pour post apo3_37
+  - first:
+      213: 5168798170909943
+    second: Tiles communautaire pour post apo3_38
+  - first:
+      213: 4664531790267086456
+    second: Tiles communautaire pour post apo3_39
+  - first:
+      213: 3191126319717464267
+    second: Tiles communautaire pour post apo3_40
+  - first:
+      213: -8132492703314107869
+    second: Tiles communautaire pour post apo3_41
+  - first:
+      213: 3074270910209009849
+    second: Tiles communautaire pour post apo3_42
+  - first:
+      213: 2023301028303822794
+    second: Tiles communautaire pour post apo3_43
+  - first:
+      213: -6021294673073726879
+    second: Tiles communautaire pour post apo3_44
+  - first:
+      213: 5927482682466965966
+    second: Tiles communautaire pour post apo3_45
+  - first:
+      213: -3170188887732862085
+    second: Tiles communautaire pour post apo3_46
+  - first:
+      213: 4198145595705641226
+    second: Tiles communautaire pour post apo3_47
+  - first:
+      213: 5249488246025125035
+    second: Tiles communautaire pour post apo3_48
+  - first:
+      213: -1255810097269521652
+    second: Tiles communautaire pour post apo3_49
+  - first:
+      213: -2389384581958427146
+    second: Tiles communautaire pour post apo3_50
+  - first:
+      213: 5997449324520266197
+    second: Tiles communautaire pour post apo3_51
+  - first:
+      213: 2219280257049693666
+    second: Tiles communautaire pour post apo3_52
+  - first:
+      213: 6687955407992487905
+    second: Tiles communautaire pour post apo3_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 644
+        width: 225
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4503e33d001426340800000000000000
+      internalID: 4855514820058689620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 643
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646fc2aee620ab260800000000000000
+      internalID: 7114001236783593030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 635
+        width: 48
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d435c08d1bc3dc020800000000000000
+      internalID: 2363612113970942797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 681
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dec1f73c3920080800000000000000
+      internalID: -9222646619040846472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 720
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a464f529807097750800000000000000
+      internalID: 6303076886878570058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 686
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3363d7522e1b31a0800000000000000
+      internalID: -6828831277126032578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 672
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf5b54d8679f0490800000000000000
+      internalID: -7777831554950406208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_7
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 673
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13d301d111f71e30800000000000000
+      internalID: 4474309813639303963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_8
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 575
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af9dd03eca2b97e0800000000000000
+      internalID: -1757764164486586458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 628
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858c3f73662ceb6b0800000000000000
+      internalID: -5278567968950466472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 629
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beaa0fda48c39d70800000000000000
+      internalID: 9048796300212612789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_11
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 577
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66145e132e2ec830800000000000000
+      internalID: 4093259839693919853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 498
+        width: 221
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882d4e867febc4040800000000000000
+      internalID: 4633288086483423880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 500
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91593e0aeba4e0a0800000000000000
+      internalID: -6853163711201717861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 527
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1517622aa94c850800000000000000
+      internalID: 6396407391993287075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 491
+        width: 42
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae877b860a25c6b0800000000000000
+      internalID: -5276765180796629343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_16
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 493
+        width: 42
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83671b094a0ab560800000000000000
+      internalID: 7330182652333876111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_17
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 581
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99dcad5bae20c740800000000000000
+      internalID: 5170183685767223711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_18
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 494
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25d8a23d16d793e0800000000000000
+      internalID: -2046932084724280018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 514
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ee6c7ad84330dc0800000000000000
+      internalID: -3674035087994327498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_20
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 497
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af1882b0c81ca7b0800000000000000
+      internalID: -5211763452866453597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 497
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aa5ba88f307ed80800000000000000
+      internalID: -8221598228727616870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_22
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 498
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7932ee747481afca0800000000000000
+      internalID: -5982442460579748969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e95c6b3a07169b50800000000000000
+      internalID: 6599487636672109027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_24
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 436
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c89b2c873b838fa0800000000000000
+      internalID: -5799638824431937344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_25
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 385
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba3c6b984ecbcab0800000000000000
+      internalID: -4986665351142163790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_26
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 402
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a50b0832a36650800000000000000
+      internalID: 6224997471542944895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 288
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b0f8d3b4d478540800000000000000
+      internalID: 5010058096023636738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_28
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 384
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6368f048921f32d80800000000000000
+      internalID: -8276506529565276618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_29
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 307
+        width: 88
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6542521a4cd6e60800000000000000
+      internalID: 7957232313025451696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 96
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd857623832d9bd0800000000000000
+      internalID: -2621900361866834501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 96
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41124ab273cb9efd0800000000000000
+      internalID: -2312109988536639212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 96
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224d11ef6e71a7630800000000000000
+      internalID: 3925476306079306786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_33
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 112
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4722a27909e6c3110800000000000000
+      internalID: 1241989164537881204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_34
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 97
+        width: 142
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b27b50d279101620800000000000000
+      internalID: 2742720153981252277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 113
+        width: 81
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82628d491e6fe1e0800000000000000
+      internalID: -2166391840788290933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_36
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 166
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c88a1ff7aaf5e0e0800000000000000
+      internalID: -2241109640100542268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 103
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bdeb6cd367334a0800000000000000
+      internalID: -6614813419977647357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_38
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 102
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc84ea9efc521000800000000000000
+      internalID: 5168798170909943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_39
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 96
+        width: 79
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876f26213febbb040800000000000000
+      internalID: 4664531790267086456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8b8200b78294c20800000000000000
+      internalID: 3191126319717464267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322a18069f4932f80800000000000000
+      internalID: -8132492703314107869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8235aca110aaa20800000000000000
+      internalID: 3074270910209009849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_43
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf5bb9b095341c10800000000000000
+      internalID: 2023301028303822794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_44
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a1d73a560107ca0800000000000000
+      internalID: -6021294673073726879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_45
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 48
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec919b43816a24250800000000000000
+      internalID: 5927482682466965966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_46
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 54
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73cac3c00a3104d0800000000000000
+      internalID: -3170188887732862085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_47
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 85
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09c7633d2fc24a30800000000000000
+      internalID: 4198145595705641226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_48
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 83
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac7aec2fbde9d840800000000000000
+      internalID: 5249488246025125035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_49
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 23
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03c6eebe57729ee0800000000000000
+      internalID: -1255810097269521652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_50
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd9298d16337ded0800000000000000
+      internalID: -2389384581958427146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 6
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9df6282683b3350800000000000000
+      internalID: 5997449324520266197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_52
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 5
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed0c72b2a77cce10800000000000000
+      internalID: 2219280257049693666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef7b0f520460dc50800000000000000
+      internalID: 6687955407992487905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_54
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 491
+        width: 45
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e75748c175004b9d92b31202ba68b
+      internalID: -524331592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 431
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4237a85e88c2604ea5519a8013b1001
+      internalID: 962486039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f026a5b2580c8ac43a5f22090b6e6ce3
+      internalID: 882838521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 432
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9f57e4a7410f04988e8faf5d5b93bc
+      internalID: 516723134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94a08bca513d8141b7462a9a12dc743
+      internalID: -699267484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c808a1ba1f117834f891bfb15163a354
+      internalID: -1727297189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda015246e2635b4088702d79721e940
+      internalID: 1831371939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 401
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c148a840016cd4a86602bfd379af99
+      internalID: -1431059660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_62
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 397
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b32ff84f37b1b44cb0eb1d8b6206600
+      internalID: 13278700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_63
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 399
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3d452b4f66f4044a91bc7532ba5e3a
+      internalID: -251530228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 399
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eb3031c132e194895419de82c522fb
+      internalID: 308861677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75461666980035a45b02c51e143f985e
+      internalID: -1978508094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11ca108903b1d34bb7026b5f7dda097
+      internalID: 1429828394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_67
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 305
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff4b35c59e71604891d7fd1684c2fd4
+      internalID: 1586848969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_68
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 239
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec05f3d787f1b743aca6a466bb7df84
+      internalID: 281237006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_69
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 287
+        width: 148
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3407bbcd5a011c74fb54cfbee01440d2
+      internalID: 1690490415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f188a8f56c025478e6f478667f3788
+      internalID: -548264098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 96
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fb45db39bc2294cafad2c629abfaef
+      internalID: -2038784412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 96
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a8b7c0236993844ba421d7977cbf90
+      internalID: -1251144631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 97
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f95ebe712961a43912acf1dc6a1e8e
+      internalID: -1569126062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_74
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 192
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d5be44a7cdb554fa9ae5128cf74475
+      internalID: -1351329534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_75
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 193
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81da29c009c84a44798cec2aa79a56fd
+      internalID: -1764702359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 197
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e466724718c9bd43877a3872a140fab
+      internalID: 1165792946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_77
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 197
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d6ddb072ecf1f42afb7cc18b264530
+      internalID: 1391290088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_78
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 288
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40f77c9efc0dec49bfa3812cee71e8a
+      internalID: 336292364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_79
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 191
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0379cafe1f383d4a99ecb25e18e150a
+      internalID: 1773248030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_80
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 629
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d222a1b0d58fb43b5b38fdd1e69701
+      internalID: 832987645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles communautaire pour post apo3_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 641
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48bc96159b44934caaec1aa6e73f206
+      internalID: -723901187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d8bd03c8e1b872a4b94204f842c3d282
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiles communautaire pour post apo3_54: -524331592
+      Tiles communautaire pour post apo3_55: 962486039
+      Tiles communautaire pour post apo3_56: 882838521
+      Tiles communautaire pour post apo3_57: 516723134
+      Tiles communautaire pour post apo3_58: -699267484
+      Tiles communautaire pour post apo3_59: -1727297189
+      Tiles communautaire pour post apo3_60: 1831371939
+      Tiles communautaire pour post apo3_61: -1431059660
+      Tiles communautaire pour post apo3_62: 13278700
+      Tiles communautaire pour post apo3_63: -251530228
+      Tiles communautaire pour post apo3_64: 308861677
+      Tiles communautaire pour post apo3_65: -1978508094
+      Tiles communautaire pour post apo3_66: 1429828394
+      Tiles communautaire pour post apo3_67: 1586848969
+      Tiles communautaire pour post apo3_68: 281237006
+      Tiles communautaire pour post apo3_69: 1690490415
+      Tiles communautaire pour post apo3_70: -548264098
+      Tiles communautaire pour post apo3_71: -2038784412
+      Tiles communautaire pour post apo3_72: -1251144631
+      Tiles communautaire pour post apo3_73: -1569126062
+      Tiles communautaire pour post apo3_74: -1351329534
+      Tiles communautaire pour post apo3_75: -1764702359
+      Tiles communautaire pour post apo3_76: 1165792946
+      Tiles communautaire pour post apo3_77: 1391290088
+      Tiles communautaire pour post apo3_78: 336292364
+      Tiles communautaire pour post apo3_79: 1773248030
+      Tiles communautaire pour post apo3_80: 832987645
+      Tiles communautaire pour post apo3_81: -723901187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

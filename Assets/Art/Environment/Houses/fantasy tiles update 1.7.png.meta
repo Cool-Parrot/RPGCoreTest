@@ -1,0 +1,3331 @@
+fileFormatVersion: 2
+guid: 25a1df92851006b45ad0698f6862b744
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3677967846555000276
+    second: fantasy tiles update 1.7_0
+  - first:
+      213: -6287645052384839373
+    second: fantasy tiles update 1.7_1
+  - first:
+      213: -5315552206875010158
+    second: fantasy tiles update 1.7_2
+  - first:
+      213: -4552075607092722873
+    second: fantasy tiles update 1.7_3
+  - first:
+      213: -8513370770230591678
+    second: fantasy tiles update 1.7_4
+  - first:
+      213: 3734403142439863843
+    second: fantasy tiles update 1.7_5
+  - first:
+      213: 5316381214526387904
+    second: fantasy tiles update 1.7_6
+  - first:
+      213: -1517432414867290476
+    second: fantasy tiles update 1.7_7
+  - first:
+      213: 8882853009995955908
+    second: fantasy tiles update 1.7_8
+  - first:
+      213: -8162298694170456039
+    second: fantasy tiles update 1.7_9
+  - first:
+      213: -4496917742526353096
+    second: fantasy tiles update 1.7_10
+  - first:
+      213: -7950293569850965007
+    second: fantasy tiles update 1.7_11
+  - first:
+      213: 3066460882114605579
+    second: fantasy tiles update 1.7_12
+  - first:
+      213: -7876739581364706427
+    second: fantasy tiles update 1.7_13
+  - first:
+      213: -1918131201358849936
+    second: fantasy tiles update 1.7_14
+  - first:
+      213: 5640037981847778381
+    second: fantasy tiles update 1.7_15
+  - first:
+      213: -8866927876681812675
+    second: fantasy tiles update 1.7_16
+  - first:
+      213: 8186793860930254174
+    second: fantasy tiles update 1.7_17
+  - first:
+      213: -1019075416011814771
+    second: fantasy tiles update 1.7_18
+  - first:
+      213: 4789768270599720046
+    second: fantasy tiles update 1.7_19
+  - first:
+      213: -5040400127830809365
+    second: fantasy tiles update 1.7_20
+  - first:
+      213: -6341301918640670294
+    second: fantasy tiles update 1.7_21
+  - first:
+      213: 6106262783417531553
+    second: fantasy tiles update 1.7_22
+  - first:
+      213: -4229817470597899860
+    second: fantasy tiles update 1.7_23
+  - first:
+      213: 5305818318892354395
+    second: fantasy tiles update 1.7_24
+  - first:
+      213: -1828704567009579397
+    second: fantasy tiles update 1.7_25
+  - first:
+      213: 4457000161447301456
+    second: fantasy tiles update 1.7_26
+  - first:
+      213: -795424312723546108
+    second: fantasy tiles update 1.7_27
+  - first:
+      213: -374131912069696510
+    second: fantasy tiles update 1.7_28
+  - first:
+      213: -6356468127675124113
+    second: fantasy tiles update 1.7_29
+  - first:
+      213: 1543519000889799327
+    second: fantasy tiles update 1.7_30
+  - first:
+      213: 1850763119288071343
+    second: fantasy tiles update 1.7_31
+  - first:
+      213: 5441069110138183106
+    second: fantasy tiles update 1.7_32
+  - first:
+      213: 3904703660378018138
+    second: fantasy tiles update 1.7_33
+  - first:
+      213: -7834343721874494271
+    second: fantasy tiles update 1.7_34
+  - first:
+      213: 7479124545097670250
+    second: fantasy tiles update 1.7_35
+  - first:
+      213: -5751759318039262341
+    second: fantasy tiles update 1.7_36
+  - first:
+      213: -5057798749437866765
+    second: fantasy tiles update 1.7_37
+  - first:
+      213: 979258294303187338
+    second: fantasy tiles update 1.7_38
+  - first:
+      213: 6265911658394880536
+    second: fantasy tiles update 1.7_39
+  - first:
+      213: 7937265014527541550
+    second: fantasy tiles update 1.7_40
+  - first:
+      213: 3136492919570668432
+    second: fantasy tiles update 1.7_41
+  - first:
+      213: -4437406849867563498
+    second: fantasy tiles update 1.7_42
+  - first:
+      213: 5025382753867221595
+    second: fantasy tiles update 1.7_43
+  - first:
+      213: 8378371292274331395
+    second: fantasy tiles update 1.7_44
+  - first:
+      213: 4532666750575740398
+    second: fantasy tiles update 1.7_45
+  - first:
+      213: -4888644376971887844
+    second: fantasy tiles update 1.7_46
+  - first:
+      213: 4971511123068401902
+    second: fantasy tiles update 1.7_47
+  - first:
+      213: 6871169614601624272
+    second: fantasy tiles update 1.7_48
+  - first:
+      213: -3776861987357240149
+    second: fantasy tiles update 1.7_49
+  - first:
+      213: -7578610785461416466
+    second: fantasy tiles update 1.7_50
+  - first:
+      213: 7049696995668993483
+    second: fantasy tiles update 1.7_51
+  - first:
+      213: -5271018954844176789
+    second: fantasy tiles update 1.7_52
+  - first:
+      213: 7779779606973783152
+    second: fantasy tiles update 1.7_53
+  - first:
+      213: 5295292436703802073
+    second: fantasy tiles update 1.7_54
+  - first:
+      213: 4890503567850002331
+    second: fantasy tiles update 1.7_55
+  - first:
+      213: -53191965756422700
+    second: fantasy tiles update 1.7_56
+  - first:
+      213: -8485404025051325261
+    second: fantasy tiles update 1.7_57
+  - first:
+      213: 7191002774833748241
+    second: fantasy tiles update 1.7_58
+  - first:
+      213: -3595827306691444481
+    second: fantasy tiles update 1.7_59
+  - first:
+      213: 6101634013590397933
+    second: fantasy tiles update 1.7_60
+  - first:
+      213: -8618377022469256359
+    second: fantasy tiles update 1.7_61
+  - first:
+      213: -8855795259649503965
+    second: fantasy tiles update 1.7_62
+  - first:
+      213: 7668727629351812281
+    second: fantasy tiles update 1.7_63
+  - first:
+      213: 3087895597988617414
+    second: fantasy tiles update 1.7_64
+  - first:
+      213: 1615406233760577452
+    second: fantasy tiles update 1.7_65
+  - first:
+      213: -568657141708236766
+    second: fantasy tiles update 1.7_66
+  - first:
+      213: -7321083764891618470
+    second: fantasy tiles update 1.7_67
+  - first:
+      213: 7287092008598476025
+    second: fantasy tiles update 1.7_68
+  - first:
+      213: -2468613324016191794
+    second: fantasy tiles update 1.7_69
+  - first:
+      213: -2880679664025025246
+    second: fantasy tiles update 1.7_70
+  - first:
+      213: -5975920319688276967
+    second: fantasy tiles update 1.7_71
+  - first:
+      213: 3384868053483358223
+    second: fantasy tiles update 1.7_72
+  - first:
+      213: -1931632471068113718
+    second: fantasy tiles update 1.7_73
+  - first:
+      213: -1529288825311861519
+    second: fantasy tiles update 1.7_74
+  - first:
+      213: 8816832600297910598
+    second: fantasy tiles update 1.7_75
+  - first:
+      213: -2987887472611372388
+    second: fantasy tiles update 1.7_76
+  - first:
+      213: 8380677839577633669
+    second: fantasy tiles update 1.7_77
+  - first:
+      213: -687001819225745849
+    second: fantasy tiles update 1.7_78
+  - first:
+      213: -3423613251488807427
+    second: fantasy tiles update 1.7_79
+  - first:
+      213: 596514090774297371
+    second: fantasy tiles update 1.7_80
+  - first:
+      213: 6843777551391107914
+    second: fantasy tiles update 1.7_81
+  - first:
+      213: -9197230606618307896
+    second: fantasy tiles update 1.7_82
+  - first:
+      213: 3925860220853247334
+    second: fantasy tiles update 1.7_83
+  - first:
+      213: -5922946026142006671
+    second: fantasy tiles update 1.7_84
+  - first:
+      213: -5230117770186267947
+    second: fantasy tiles update 1.7_85
+  - first:
+      213: 8697293324727018149
+    second: fantasy tiles update 1.7_86
+  - first:
+      213: -2146447653604317859
+    second: fantasy tiles update 1.7_87
+  - first:
+      213: 6448679469150740443
+    second: fantasy tiles update 1.7_88
+  - first:
+      213: -845003320589544703
+    second: fantasy tiles update 1.7_89
+  - first:
+      213: -4025227475057601549
+    second: fantasy tiles update 1.7_90
+  - first:
+      213: -1567613753993750457
+    second: fantasy tiles update 1.7_91
+  - first:
+      213: 3187340473813136872
+    second: fantasy tiles update 1.7_92
+  - first:
+      213: 8435777715879720679
+    second: fantasy tiles update 1.7_93
+  - first:
+      213: 8559845439382340393
+    second: fantasy tiles update 1.7_94
+  - first:
+      213: 9061050326427165281
+    second: fantasy tiles update 1.7_95
+  - first:
+      213: -395076764436840243
+    second: fantasy tiles update 1.7_96
+  - first:
+      213: 6496897428062975994
+    second: fantasy tiles update 1.7_97
+  - first:
+      213: -1232382981781282796
+    second: fantasy tiles update 1.7_98
+  - first:
+      213: 2443165444059505627
+    second: fantasy tiles update 1.7_99
+  - first:
+      213: -70794019589009941
+    second: fantasy tiles update 1.7_100
+  - first:
+      213: -6979620481597021449
+    second: fantasy tiles update 1.7_101
+  - first:
+      213: 3811989200209884900
+    second: fantasy tiles update 1.7_102
+  - first:
+      213: 6667429972748554553
+    second: fantasy tiles update 1.7_103
+  - first:
+      213: -4963500275489251485
+    second: fantasy tiles update 1.7_104
+  - first:
+      213: 8955539347419961426
+    second: fantasy tiles update 1.7_105
+  - first:
+      213: -7797204537602631428
+    second: fantasy tiles update 1.7_106
+  - first:
+      213: -8097650266364746928
+    second: fantasy tiles update 1.7_107
+  - first:
+      213: 388706884869412139
+    second: fantasy tiles update 1.7_108
+  - first:
+      213: 3070255610840630264
+    second: fantasy tiles update 1.7_109
+  - first:
+      213: -4249471354223113053
+    second: fantasy tiles update 1.7_110
+  - first:
+      213: 7754360623459150478
+    second: fantasy tiles update 1.7_111
+  - first:
+      213: -193206168100674834
+    second: fantasy tiles update 1.7_112
+  - first:
+      213: 7482718912747731146
+    second: fantasy tiles update 1.7_113
+  - first:
+      213: -178380509918804898
+    second: fantasy tiles update 1.7_114
+  - first:
+      213: 5577490042174534322
+    second: fantasy tiles update 1.7_115
+  - first:
+      213: -8013272713945410995
+    second: fantasy tiles update 1.7_116
+  - first:
+      213: 2487276309858597239
+    second: fantasy tiles update 1.7_117
+  - first:
+      213: 8584825497341039414
+    second: fantasy tiles update 1.7_118
+  - first:
+      213: 764638694009997374
+    second: fantasy tiles update 1.7_119
+  - first:
+      213: 8056673781672860384
+    second: fantasy tiles update 1.7_120
+  - first:
+      213: -6588749500852846334
+    second: fantasy tiles update 1.7_121
+  - first:
+      213: -5443706430488068050
+    second: fantasy tiles update 1.7_122
+  - first:
+      213: 6741634547040080436
+    second: fantasy tiles update 1.7_123
+  - first:
+      213: 5901885941200738140
+    second: fantasy tiles update 1.7_124
+  - first:
+      213: 2087570845722202405
+    second: fantasy tiles update 1.7_125
+  - first:
+      213: 7137028220966653158
+    second: fantasy tiles update 1.7_126
+  - first:
+      213: -6362950300711371538
+    second: fantasy tiles update 1.7_127
+  - first:
+      213: 590089091348137840
+    second: fantasy tiles update 1.7_128
+  - first:
+      213: -4097601532444903761
+    second: fantasy tiles update 1.7_129
+  - first:
+      213: -5099130769058831232
+    second: fantasy tiles update 1.7_130
+  - first:
+      213: 854747275379299939
+    second: fantasy tiles update 1.7_131
+  - first:
+      213: 1105726200143114243
+    second: fantasy tiles update 1.7_132
+  - first:
+      213: -4663232784594748254
+    second: fantasy tiles update 1.7_133
+  - first:
+      213: 5425623513753516201
+    second: fantasy tiles update 1.7_134
+  - first:
+      213: -7939609578263235160
+    second: fantasy tiles update 1.7_135
+  - first:
+      213: -1637444968298566128
+    second: fantasy tiles update 1.7_136
+  - first:
+      213: -4419165064929272654
+    second: fantasy tiles update 1.7_137
+  - first:
+      213: -1107958688245704422
+    second: fantasy tiles update 1.7_138
+  - first:
+      213: 5430828525686741968
+    second: fantasy tiles update 1.7_139
+  - first:
+      213: -488702412923579083
+    second: fantasy tiles update 1.7_140
+  - first:
+      213: 5134759819417531572
+    second: fantasy tiles update 1.7_141
+  - first:
+      213: -3905060462107396830
+    second: fantasy tiles update 1.7_142
+  - first:
+      213: -4645066907702450311
+    second: fantasy tiles update 1.7_143
+  - first:
+      213: 2649466596060115746
+    second: fantasy tiles update 1.7_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1183
+        width: 322
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22e7c2fabb35fcc0800000000000000
+      internalID: -3677967846555000276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1215
+        width: 322
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339fbd2632ccdb8a0800000000000000
+      internalID: -6287645052384839373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_2
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1408
+        width: 194
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bdb2c4e6d5b36b0800000000000000
+      internalID: -5315552206875010158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_3
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1343
+        width: 65
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74384807a57c3d0c0800000000000000
+      internalID: -4552075607092722873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f3637e36e6ad980800000000000000
+      internalID: -8513370770230591678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_8
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce71dccfbb364b70800000000000000
+      internalID: 8882853009995955908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_24
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1345
+        width: 191
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bc65c46ad02a940800000000000000
+      internalID: 5305818318892354395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_28
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1349
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204b2f91201decaf0800000000000000
+      internalID: -374131912069696510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_29
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1349
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66f4d77ae949c7a0800000000000000
+      internalID: -6356468127675124113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_33
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1312
+        width: 191
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51dff58a4b403630800000000000000
+      internalID: 3904703660378018138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1168
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cceb51a4e1d64390800000000000000
+      internalID: -7834343721874494271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1168
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e937dc5203bc760800000000000000
+      internalID: 7479124545097670250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_36
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1167
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b0ab6df55ad20b0800000000000000
+      internalID: -5751759318039262341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1167
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc4752b5d61fc9b0800000000000000
+      internalID: -5057798749437866765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_39
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1175
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a0b90847df4f650800000000000000
+      internalID: 6265911658394880536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_40
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1171
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21cc0f2a74d62e60800000000000000
+      internalID: 7937265014527541550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_41
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1163
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b998741bf078b20800000000000000
+      internalID: 3136492919570668432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_42
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1164
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e32cdfaf92b62c0800000000000000
+      internalID: -4437406849867563498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_43
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1170
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a41a03dfebdb540800000000000000
+      internalID: 5025382753867221595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_44
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1164
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f8750cc44f54470800000000000000
+      internalID: 8378371292274331395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_45
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1163
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee58a41056447ee30800000000000000
+      internalID: 4532666750575740398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_46
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1171
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b316d17db082cb0800000000000000
+      internalID: -4888644376971887844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_47
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 894
+        width: 322
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee83567b60b5ef440800000000000000
+      internalID: 4971511123068401902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_48
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 894
+        width: 322
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da99c50c5c4b5f50800000000000000
+      internalID: 6871169614601624272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_49
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1166
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba455ed7804e59bc0800000000000000
+      internalID: -3776861987357240149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_50
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1165
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedc0a1d4ad53d690800000000000000
+      internalID: -7578610785461416466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_52
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1166
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e7928003499d6b0800000000000000
+      internalID: -5271018954844176789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_53
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1166
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c1080655457fb60800000000000000
+      internalID: 7779779606973783152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_54
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1152
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2fa8f5a68ac7940800000000000000
+      internalID: 5295292436703802073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_55
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1160
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97da7e751f8ed340800000000000000
+      internalID: 4890503567850002331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_56
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1154
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d50f206036034ff0800000000000000
+      internalID: -53191965756422700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_57
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1156
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc552f2ff9cd3a80800000000000000
+      internalID: -8485404025051325261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_58
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1155
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11950d49ce29bc360800000000000000
+      internalID: 7191002774833748241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_59
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1153
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0c107bd1e091ec0800000000000000
+      internalID: -3595827306691444481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_60
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1155
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de32f79becb5da450800000000000000
+      internalID: 6101634013590397933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_61
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1154
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bc45b92cf556880800000000000000
+      internalID: -8618377022469256359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_62
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1158
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dc001a125e91580800000000000000
+      internalID: -8855795259649503965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_63
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1156
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcfcb2f52bcc6a60800000000000000
+      internalID: 7668727629351812281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_64
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1154
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc9a9d9fa86ada20800000000000000
+      internalID: 3087895597988617414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_65
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1128
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7304b29631b6610800000000000000
+      internalID: 1615406233760577452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_66
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1139
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228dd7da759bb18f0800000000000000
+      internalID: -568657141708236766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_67
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1127
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5371c6ca19466a90800000000000000
+      internalID: -7321083764891618470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_68
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1138
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4991ab293f02560800000000000000
+      internalID: 7287092008598476025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_69
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1141
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6f736d249bdbdd0800000000000000
+      internalID: -2468613324016191794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_70
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1141
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225c81aab15c508d0800000000000000
+      internalID: -2880679664025025246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_71
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1143
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91401fa8124411da0800000000000000
+      internalID: -5975920319688276967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_72
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1135
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0881739f8779fe20800000000000000
+      internalID: 3384868053483358223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_73
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1137
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4006570867135e0800000000000000
+      internalID: -1931632471068113718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_74
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1141
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4ef487aefd6cae0800000000000000
+      internalID: -1529288825311861519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_75
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1131
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64137d0598eab5a70800000000000000
+      internalID: 8816832600297910598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_76
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1128
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92d8269c24e886d0800000000000000
+      internalID: -2987887472611372388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_77
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1124
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5835305a7162e4470800000000000000
+      internalID: 8380677839577633669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_78
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1128
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746900d3c774776f0800000000000000
+      internalID: -687001819225745849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_79
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1129
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df580b803e1ec70d0800000000000000
+      internalID: -3423613251488807427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_80
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1127
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bfd14b76e374800800000000000000
+      internalID: 596514090774297371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_81
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1128
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ba5705c6bf9fe50800000000000000
+      internalID: 6843777551391107914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_82
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1127
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c25a270e7fdc5080800000000000000
+      internalID: -9197230606618307896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_83
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1132
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d5bcd12157b7630800000000000000
+      internalID: 3925860220853247334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_84
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1126
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1728ef768f77dcda0800000000000000
+      internalID: -5922946026142006671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_85
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1121
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2e69e2993ea67b0800000000000000
+      internalID: -5230117770186267947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_86
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1122
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2eab7d23ef2b870800000000000000
+      internalID: 8697293324727018149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_87
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1123
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55a1fd3b394632e0800000000000000
+      internalID: -2146447653604317859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_88
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1122
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf95158fcf4e7950800000000000000
+      internalID: 6448679469150740443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_89
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 994
+        width: 51
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1031c3af4f1f544f0800000000000000
+      internalID: -845003320589544703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_90
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1090
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f39c0120f48328c0800000000000000
+      internalID: -4025227475057601549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_91
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 994
+        width: 120
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7489f28a897be3ae0800000000000000
+      internalID: -1567613753993750457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_92
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1056
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e57bdf0645bb3c20800000000000000
+      internalID: 3187340473813136872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_93
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1055
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6ba2f4327e11570800000000000000
+      internalID: 8435777715879720679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_94
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1059
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923c1aa331eaac670800000000000000
+      internalID: 8559845439382340393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_95
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1059
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162e0aea3415fbd70800000000000000
+      internalID: 9061050326427165281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_96
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 799
+        width: 322
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc04bb4a6c7648af0800000000000000
+      internalID: -395076764436840243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_97
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1055
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7b7dde9cd992a50800000000000000
+      internalID: 6496897428062975994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_98
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1060
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410a0bf1532b5eee0800000000000000
+      internalID: -1232382981781282796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_99
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 994
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd32da4e60ed7e120800000000000000
+      internalID: 2443165444059505627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_100
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 996
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedcc2ad63d740ff0800000000000000
+      internalID: -70794019589009941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_101
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 997
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f26e5fc628632f90800000000000000
+      internalID: -6979620481597021449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_102
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 995
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6b2261bf7e6e430800000000000000
+      internalID: 3811989200209884900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_103
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 962
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93158721c38778c50800000000000000
+      internalID: 6667429972748554553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_104
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1004
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fd8e41cca1e1bb0800000000000000
+      internalID: -4963500275489251485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_105
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 995
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25810078697784c70800000000000000
+      internalID: 8955539347419961426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_106
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 993
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8912fc8c3cac390800000000000000
+      internalID: -7797204537602631428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_107
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 963
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0536bf56cfd5f9f80800000000000000
+      internalID: -8097650266364746928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_108
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25d3623ad6f46500800000000000000
+      internalID: 388706884869412139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_109
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 961
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f34ecd063dbb9a20800000000000000
+      internalID: 3070255610840630264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_110
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 962
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac45586158d605c0800000000000000
+      internalID: -4249471354223113053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_111
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 831
+        width: 156
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a2f8517e50d9b60800000000000000
+      internalID: 7754360623459150478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_112
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 930
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e1f58308915df0800000000000000
+      internalID: -193206168100674834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_113
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 897
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8fc6cb435f7d760800000000000000
+      internalID: 7482718912747731146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_114
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 707
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54cf6f0fd3468df0800000000000000
+      internalID: -178380509918804898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_115
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 706
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2771e74a9376d40800000000000000
+      internalID: 5577490042174534322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_116
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 704
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4214fc3ce22bc090800000000000000
+      internalID: -8013272713945410995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_117
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 704
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779bd5b20a4948220800000000000000
+      internalID: 2487276309858597239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_118
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 703
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6339ab33e4d632770800000000000000
+      internalID: 8584825497341039414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_119
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 703
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e380cf947da8c9a00800000000000000
+      internalID: 764638694009997374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_120
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 703
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea50db4e1e0fcf60800000000000000
+      internalID: 8056673781672860384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_121
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 638
+        width: 292
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20142a7dc3f0094a0800000000000000
+      internalID: -6588749500852846334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_122
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 638
+        width: 321
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20cf3de7d11474b0800000000000000
+      internalID: -5443706430488068050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_123
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 607
+        width: 130
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43253ddd6e81f8d50800000000000000
+      internalID: 6741634547040080436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_124
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 583
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5754267ef5b7e150800000000000000
+      internalID: 5901885941200738140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_125
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 578
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521dbbeaf9a88fc10800000000000000
+      internalID: 2087570845722202405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 611
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecc7a67a51db0360800000000000000
+      internalID: 7137028220966653158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_127
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 611
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec32a2f96242b7a0800000000000000
+      internalID: -6362950300711371538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_128
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 611
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07783a3f6ea603800800000000000000
+      internalID: 590089091348137840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_129
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 616
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa67683cd156227c0800000000000000
+      internalID: -4097601532444903761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_130
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 611
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084ebf6f49f3c39b0800000000000000
+      internalID: -5099130769058831232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_131
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 607
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36657b94e1cacdb00800000000000000
+      internalID: 854747275379299939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_132
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 489
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3007f52ee14585f00800000000000000
+      internalID: 1105726200143114243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_133
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 511
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac36414d7ed84fb0800000000000000
+      internalID: -4663232784594748254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_134
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 511
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8f84ee6dfab4b40800000000000000
+      internalID: 5425623513753516201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_135
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 511
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5b4588727d0d190800000000000000
+      internalID: -7939609578263235160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_136
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 511
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e20551a70a649e0800000000000000
+      internalID: -1637444968298566128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_137
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 511
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc131589c8fba2c0800000000000000
+      internalID: -4419165064929272654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_138
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 511
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a199e49717dbf90f0800000000000000
+      internalID: -1107958688245704422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_139
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 223
+        width: 290
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbdd9535cd2e5b40800000000000000
+      internalID: 5430828525686741968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_140
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 223
+        width: 290
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53550d4aeb7c739f0800000000000000
+      internalID: -488702412923579083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_141
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 255
+        width: 99
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4b453c9d4524740800000000000000
+      internalID: 5134759819417531572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_142
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 255
+        width: 196
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2257aa913307ec9c0800000000000000
+      internalID: -3905060462107396830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_143
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 255
+        width: 99
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97729701248698fb0800000000000000
+      internalID: -4645066907702450311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_144
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 255
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2233d66e4dbc4c420800000000000000
+      internalID: 2649466596060115746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_38
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1161
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e2489d3f93e774db4a5073ceed75cd
+      internalID: -348483286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_5
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1445
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9deb9a092d25854a9a285ab54f7b4dc
+      internalID: 2057517197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_6
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1376
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6a927376f2050468cc11d2bf619ad2
+      internalID: 1202373015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_7
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1376
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d111312ce89c0b49b258777db6a43d7
+      internalID: 141057181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_9
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1347
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e2f26d153a0284faa9728db3bafe4c
+      internalID: -223181316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_10
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1347
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444e7535d7a0d142a5de43a20cfe751
+      internalID: -1478454537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy tiles update 1.7_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 876
+        width: 201
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae18e785b0952747bd50b925964ef5d
+      internalID: -595587532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 538bd13b0ad4da24c8d7064ce2e8626e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fantasy tiles update 1.7_10: -1478454537
+      fantasy tiles update 1.7_11: -595587532
+      fantasy tiles update 1.7_38: -348483286
+      fantasy tiles update 1.7_5: 2057517197
+      fantasy tiles update 1.7_6: 1202373015
+      fantasy tiles update 1.7_7: 141057181
+      fantasy tiles update 1.7_9: -223181316
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
